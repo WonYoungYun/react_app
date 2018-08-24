@@ -20,8 +20,11 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android" : {
+      "package" : "co.kyungsung.WonYoung_Yun"
+    }, 
     "ios": {
-      "supportsTablet": true
+        "supportsTablet": true
     }
   }
 }
